@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_resultados" value="name:tipo;datatype:string,name:dormitorios;datatype:int,name:m2_construidos;datatype:int,name:precio;datatype:int,name:provincia;datatype:string,name:localidad;datatype:string,name:zona_o_barrio;datatype:string" />
+	<infoitem key="UD_localidades" value="name:granada;datatype:string" />
+</info>

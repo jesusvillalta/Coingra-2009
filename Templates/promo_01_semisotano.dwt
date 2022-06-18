@@ -1,0 +1,503 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>coingra</title>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../../../general.css" rel="stylesheet" type="text/css" />
+<link href="../../../promotora.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="../../../menu.js"></script>
+
+<script type="text/javascript">
+<!--
+
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body>
+<table align="center" cellpadding="0" cellspacing="0" class="cuerpo_tabla">
+  <tr>
+    <td rowspan="2" class="cuerpolados_celda">&nbsp;</td>
+    <td class="cuerpo_centro_celda"><table cellpadding="0" class="cabecera">
+      <tr>
+        <td class="primero"><img src="../../../fotos/general/logocoingra.jpg" alt="logo_coingra" width="32" height="27"> <span class="textocoingra">COINGRA</span></td>
+        <td class="segundo"><span class="textologo">Promotora</span><br />
+          <span class="textologo">Constructora</span><br />
+          <span class="textologo">Inmobiliaria</span></td>
+        <td class="tercero">&nbsp;</td>
+      </tr>
+    </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="menu_clara_tabla_celda"><div align="right">
+                <table width="413" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+                    <tr>
+                      <td class="menu_clara_tabla_celda"><a href="../../../Index.html" onmouseover="main_menu('inicio')" class="menu_princ">Inicio</a></td>
+                      <td class="menu_clara_tabla_celda">|</td>
+                      <td class="menu_clara_tabla_celda"><a href="#" onmouseover="main_menu('prom')" class="menu_princ">Promotora</a></td>
+                      <td class="menu_clara_tabla_celda">|</td>
+                      <td class="menu_clara_tabla_celda"><a href="#" onmouseover="main_menu('cons')" class="menu_princ">Constructora</a></td>
+                      <td class="menu_clara_tabla_celda">|</td>
+                      <td class="menu_clara_tabla_celda"><a href="../../../inmobiliaria/inmobiliaria_principal.php" onmouseover="main_menu('ocultaSinRetardo')" class="menu_princ">Inmobiliaria</a></td>
+                    </tr>
+                    </table>
+              </div></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td><table cellpadding="0" cellspacing="0" class="menu_oscura_tabla">
+            <tr>
+              <td class="menu_oscura_tabla_celda">Promociones &gt; RESIDENCIAL SEVERO OCHOA</td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="menupromo_clara"><a href="../descripcion/promo_01_descripcion.html" class="menupromo">Descripci&oacute;n</a></td>
+            <td>&nbsp;</td>
+            <td class="menupromo_clara"><a href="../localizacion/promo_01_localizacion.html" class="menupromo">Localizaci&oacute;n</a></td>
+            <td>&nbsp;</td>
+            <td class="menupromo_clara"><a href="../tipos_de_vivienda/promo_01_tipos_viviendas.html" class="menupromo">Tipos de vivienda</a></td>
+            <td>&nbsp;</td>
+            <td class="menupromo_oscura">Semis&oacute;tano</td>
+            <td>&nbsp;</td>
+            <td class="menupromo_clara"><a href="../memoria_de_calidades/promo_01_memoria_calidades.html" class="menupromo">Memoria de calidades</a></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+	<table class="tablaorientativa_cabecera_tabla">
+        <tr>
+          <td colspan="10" class="tablaorientativa_celda1">&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan="10" class="piso">Tabla orientativa de garajes y trasteros en SEMIS&Oacute;TANO</td>
+        </tr>
+        <tr>
+          <td colspan="10" class="tablaorientativasotanos_cabecera_celda">Semis&oacute;tano (plazas de garaje y trasteros) </td>
+        </tr>
+        <tr>
+          <td colspan="9" class="sotano_celda"><br />
+            <br />
+          <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><img src="semisotano_p.gif" alt="semis&oacute;tano" width="32" height="32" border="0" class="imagenes_planos_atico" onClick="window.open('semisotano.gif','semisotano','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,top=0px,left=0px,width=690px,height=490px')">
+                    <table class="planos_atico_enlaces_tabla">
+                      <tr>
+                        <td><div align="left">
+                            <p><a href="javascript:void(0);" onClick="window.open('semisotano.gif','self','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,top=0px,left=0px,width=690px,height=490px')"> Ver plano en versi&oacute;n gif</a> (- detallado) </p>
+                          <p><a href="semisotano_www_coingra_es.pdf" target="_blank">Ver plano en versi&oacute;n pdf</a> (+detallado) recomendado </p>
+                          <p>Para  ver o imprimir archivos pdf debe  tener instalado en su ordenador el programa Adobe Acrobat Reader. Si no dispone de &eacute;l puede descargar la &uacute;ltima versi&oacute;n gratuitamente desde su sitio web pinchando sobre su logotipo:</p>
+                          <p><a href="http://www.adobe.com/prodindex/acrobat/readstep.html" target="_blank"><img src="../../../fotos/general/getacrobat.gif" alt="acrobat reader" style="width:88px; height:31px; border:0px;"></a></p>
+                        </div></td>
+                      </tr>
+                  </table></td>
+              </tr>
+            </table>
+          <br />
+        <br /></td></tr>
+        <tr>
+          <td colspan="9"></td>
+        </tr>
+        <tr class="tabla_cabecera_semisotano_tr">
+          <td>Plaza de<br />
+          garaje </td>
+          <td>Sup.<br />
+  &uacute;til </td>
+          <td>Sup.<br />
+            construida </td>
+          <td>Sup. cons.<br />
+            + Z. C. </td>
+          <td>Trastero</td>
+          <td>Sup.<br />
+  &uacute;til </td>
+          <td>Sup.<br />
+            construida </td>
+          <td>Sup. cons.<br />
+            + Z. C. </td>
+          <td>Pertenecientes<br /> 
+          a Vivienda</td>
+        </tr>
+        <tr class="tablaorientativasotanos_tr">
+          <td>Plaza 1 </td>
+          <td>11.09</td>
+          <td>11.41</td>
+          <td>18.49</td>
+          <td>Trastero 21 </td>
+          <td>5.34</td>
+          <td>6.79</td>
+          <td>11.00</td>
+          <td>2&ordm; - E </td>
+        </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 2 </td>
+              <td>11.06</td>
+              <td>11.21</td>
+              <td>18.17</td>
+              <td>Trastero 20</td>
+              <td>5.19</td>
+              <td>6.47</td>
+              <td>10.48</td>
+              <td>2&ordm; - D </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 3 </td>
+              <td>11.42</td>
+              <td>11.57</td>
+              <td>18.75</td>
+              <td>Trastero 19 </td>
+              <td>5.35</td>
+              <td>6.68</td>
+              <td>10.82</td>
+              <td>2&ordm; - C </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 4 </td>
+              <td>11.42</td>
+              <td>11.57</td>
+              <td>18.75</td>
+              <td>Trastero 18 </td>
+              <td>5.38</td>
+              <td>6.68</td>
+              <td>10.82</td>
+              <td>2&ordm; - B </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 5 </td>
+              <td>21.18</td>
+              <td>23.49</td>
+              <td>38.07</td>
+              <td>Trastero 17 </td>
+              <td>10.37</td>
+              <td>13.63</td>
+              <td>22.09</td>
+              <td>2&ordm; - A </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 6 </td>
+              <td>21.14</td>
+              <td>23.54</td>
+              <td>38.15</td>
+              <td>Trastero 16 </td>
+              <td>6.01</td>
+              <td>8.43</td>
+              <td>13.66</td>
+              <td>2&ordm; - G </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 7 </td>
+              <td>11.94</td>
+              <td>12.07</td>
+              <td>19.56</td>
+              <td>Trastero 15 </td>
+              <td>5.82</td>
+              <td>7.20</td>
+              <td>11.67</td>
+              <td>2&ordm; - F </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 8 </td>
+              <td>11.86</td>
+              <td>11.99</td>
+              <td>19.43</td>
+              <td>Trastero 14 </td>
+              <td>5.59</td>
+              <td>6.91</td>
+              <td>11.20</td>
+              <td>BAJO - G </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 9 </td>
+              <td>11.90</td>
+              <td>12.03</td>
+              <td>19.49</td>
+              <td>Trastero 13</td>
+              <td>5.61</td>
+              <td>6.93</td>
+              <td>11.23</td>
+              <td>BAJO - F </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 10</td>
+              <td>13.63</td>
+              <td>12.82</td>
+              <td>20.77</td>
+              <td>Trastero 12 </td>
+              <td>5.70</td>
+              <td>7.03</td>
+              <td>11.39</td>
+              <td>BAJO - E </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 11 </td>
+              <td>12.87</td>
+              <td>13.87</td>
+              <td>22.48</td>
+              <td>Trastero 2 </td>
+              <td>2.30</td>
+              <td>3.38</td>
+              <td>5.48</td>
+              <td>BAJO - D </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 12 </td>
+              <td>14.13</td>
+              <td>15.23</td>
+              <td>24.68</td>
+              <td>Trastero 3 </td>
+              <td>2.24</td>
+              <td>3.38</td>
+              <td>5.48</td>
+              <td>BAJO - C</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 13 </td>
+              <td>12.87</td>
+              <td>13.85</td>
+              <td>22.44</td>
+              <td>Trastero 4</td>
+              <td>2.06</td>
+              <td>3.09</td>
+              <td>5.01</td>
+              <td>BAJO - B </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 14 </td>
+              <td>12.87</td>
+              <td>13.85</td>
+              <td>22.44</td>
+              <td>Trastero 5</td>
+              <td>3.33</td>
+              <td>5.01</td>
+              <td>8.12</td>
+              <td>BAJO - A </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 15 </td>
+              <td>12.87</td>
+              <td>13.85</td>
+              <td>22.44</td>
+              <td>Trastero 6 </td>
+              <td>3.81</td>
+              <td>5.77</td>
+              <td>9.35</td>
+              <td>1&ordm; - G </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 16</td>
+              <td>12.87</td>
+              <td>13.85</td>
+              <td>22.44</td>
+              <td>Trastero 7</td>
+              <td>1.57</td>
+              <td>2.47</td>
+              <td>4.00</td>
+              <td>1&ordm; - F </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 17 </td>
+              <td>12.87</td>
+              <td>13.85</td>
+              <td>22.44</td>
+              <td>Trastero 8 </td>
+              <td>1.57</td>
+              <td>2.47</td>
+              <td>4.00</td>
+              <td>1&ordm; - E </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 18 </td>
+              <td>12.87</td>
+              <td>13.85</td>
+              <td>22.44</td>
+              <td>Trastero 9</td>
+              <td>1.57</td>
+              <td>2.47</td>
+              <td>4.00</td>
+              <td>1&ordm; - D </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 19 </td>
+              <td>15.28</td>
+              <td>18.72</td>
+              <td>30.34</td>
+              <td>Trastero 10</td>
+              <td>1.57</td>
+              <td>2.47</td>
+              <td>4.00</td>
+              <td>1&ordm; - C </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 20 </td>
+              <td>13.60</td>
+              <td>16.92</td>
+              <td>27.42</td>
+              <td>Trastero 11</td>
+              <td>3.45</td>
+              <td>4.40</td>
+              <td>7.13</td>
+              <td>1&ordm; - B </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 21 </td>
+              <td>12.37</td>
+              <td>13.41</td>
+              <td>21.73</td>
+              <td>Trastero 1</td>
+              <td>3.44</td>
+              <td>4.06</td>
+              <td>6.58</td>
+              <td>1&ordm; - A </td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 22 </td>
+              <td>12.03</td>
+              <td>13.08</td>
+              <td>21.20</td>
+              <td colspan="5" rowspan="7">&nbsp;</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 23 </td>
+              <td>12.95</td>
+              <td>14.09</td>
+              <td>22.83</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 24</td>
+              <td>11.96</td>
+              <td>13.00</td>
+              <td>21.07</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 25 </td>
+              <td>12.17</td>
+              <td>13.22</td>
+              <td>21.42</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 26</td>
+              <td>12.61</td>
+              <td>13.72</td>
+              <td>22.23</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 27 </td>
+              <td>20.10</td>
+              <td>21.73</td>
+              <td>35.21</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 28 </td>
+              <td>16.89</td>
+              <td>18.22</td>
+              <td>29.53</td>
+            </tr>
+            <tr class="tablaorientativasotanos_tr">
+              <td>Plaza 29</td>
+              <td>13.80</td>
+              <td>15.05</td>
+              <td>24.39</td>
+              <td colspan="5"><div align="right">Z.C. : Zonas comunes </div></td>
+            </tr>
+      </table>
+	<br />
+	</td>
+    <td rowspan="2" class="cuerpolados_celda">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="cuerpo_centro_celda"><table cellpadding="0" cellspacing="0" class="menu_oscura_tabla">
+      <tr>
+        <td class="pie_fina_celda" onClick="print()"><a href="javascript:void(0);"><img src="../../../fotos/general/print.gif" alt="imprimir" width="15" height="11" border="0"> Imprimir</a></td>
+      </tr>
+    </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="pie_tabla">
+        <tr>
+          <td class="pie_celda">COINGRA - Urb. Jard&iacute;n de la Reina, C./ Gardenia, 1 - 18006 (Granada)<br />
+      <table width="0%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td class="pie_celda_intro_mail" width="0"><div align="right">Telf.: 958 26 09 38 - Fax: 958 26 09 14 - email: coingra </div></td>
+          <td width="0"><img src="fotos/general/arroba.jpg" alt="arro" width="10" height="13" /> </td>
+          <td class="pie_celda_intro_mail" width="0"><div align="left">coingra.es</div></td>
+        </tr>
+      </table>
+            <span class="pie_creadopor">Sitio creado por JFVC</span></td>
+        </tr>
+      </table>    </td>
+  </tr>
+  <tr>
+    <td style="height:37px">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<div id="inicio" align="right" style="position:absolute; left:4%; top:118px; width:92%; z-index:1; background-color: #D6CFD6; layer-background-color: #D6CFD6; border: 1px none #000000; text-align: right; visibility: hidden;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="menu_clara_tabla_celda"><div align="right">
+        <table width="250" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+          <tr>
+            <td class="menu_clara_tabla_celda"><a href="../../../Index.html" target="_parent">Portada</a></td>
+            <td class="menu_clara_tabla_celda">|</td>
+            <td class="menu_clara_tabla_celda"><a href="../../../inicio/quienes_somos.html" target="_parent">&iquest;Qui&eacute;nes somos?</a></td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+</div>
+<div id="prom" align="right" style="position:absolute; left:4%; top:118px; width:92%; z-index:1; background-color: #D6CFD6; layer-background-color: #D6CFD6; border: 1px none #000000; text-align: right; visibility: hidden;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="menu_clara_tabla_celda"><div align="right">
+        <table width="410" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+          <tr>
+            <td class="menu_clara_tabla_celda"><a href="#" class="menu_princ">Residencial Severo Ochoa</a></td>
+            <td class="menu_clara_tabla_celda">|</td>
+            <td class="menu_clara_tabla_celda"><a href="#">Promociones Anteriores</a></td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+</div>
+<div id="cons" align="right" style="position:absolute; left:4%; top:118px; width:92%; z-index:1; background-color: #D6CFD6; layer-background-color: #D6CFD6; border: 1px none #000000; text-align: right; visibility: hidden;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="menu_clara_tabla_celda"><div align="right">
+        <table width="292" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+          <tr>
+            <td class="menu_clara_tabla_celda"><a href="#">Obras actuales</a></td>
+            <td class="menu_clara_tabla_celda">|</td>
+            <td class="menu_clara_tabla_celda"><a href="#">Obras Anteriores</a></td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+</div>
+<div id="borrar" align="right" style="position:absolute; left:0%; top:137px; width:100%; z-index:1; text-align: right; visibility: visible;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0" onmouseover="main_menu('ocultar')">
+    <tr>
+      <td class="ocultasubmenu_celda"></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

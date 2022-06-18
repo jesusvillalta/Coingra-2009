@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>coingra</title>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../../../general.css" rel="stylesheet" type="text/css" />
+<link href="../../promotora.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="../../../menu.js"></script>
+
+<script type="text/javascript">
+<!--
+
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body>
+<table align="center" cellpadding="0" cellspacing="0" class="cuerpo_tabla">
+  <tr>
+    <td rowspan="2" class="cuerpolados_celda">&nbsp;</td>
+    <td class="cuerpo_centro_celda"><table cellpadding="0" class="cabecera">
+      <tr>
+        <td width="25%">
+          <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+            <tr>
+              <td><img src="../../fotos/general/logo_opt2.jpg" alt="coingra" height="60" /></td>
+              <td style="vertical-align:bottom"><div style="height:40px; border-right:solid #CCCCCC 1px">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><div align="left"><span class="textocoingra_intro">C</span></div></td>
+                  <td><div align="left"><span class="textocoingra_intro">O</span></div></td>
+                  <td><div align="left"><span class="textocoingra_intro">I</span></div></td>
+                  <td><div align="left"><span class="textocoingra_intro">N</span></div></td>
+                  <td><div align="left"><span class="textocoingra_intro">G</span></div></td>
+                  <td><div align="left"><span class="textocoingra_intro">R</span></div></td>
+                  <td><div align="left"><span class="textocoingra_intro">A</span></div></td>
+                </tr>
+              </table></div></td>
+            </tr>
+          </table>
+        <td class="segundo"><span class="textologo">Promotora</span><br />
+          <span class="textologo">Constructora</span><br />
+          <span class="textologo">Inmobiliaria</span></td>
+        <td class="tercero">&nbsp;</td>
+      </tr>
+    </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="menu_clara_tabla_celda"><div align="right">
+                <table width="413" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+                    <tr>
+                      <td class="menu_clara_tabla_celda"><a href="../../../Index.html" onmouseover="main_menu('inicio')" class="menu_princ">Inicio</a></td>
+                      <td class="menu_clara_tabla_celda">|</td>
+                      <td class="menu_clara_tabla_celda"><a href="#" onmouseover="main_menu('prom')" class="menu_princ">Promotora</a></td>
+                      <td class="menu_clara_tabla_celda">|</td>
+                      <td class="menu_clara_tabla_celda"><a href="#" onmouseover="main_menu('cons')" class="menu_princ">Constructora</a></td>
+                      <td class="menu_clara_tabla_celda">|</td>
+                      <td class="menu_clara_tabla_celda"><a href="../../../inmobiliaria/inmobiliaria_principal.php" onmouseover="main_menu('ocultaSinRetardo')" class="menu_princ">Inmobiliaria</a></td>
+                    </tr>
+                    </table>
+              </div></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td><table cellpadding="0" cellspacing="0" class="menu_oscura_tabla">
+            <tr>
+              <td class="menu_oscura_tabla_celda">Promociones &gt; RESIDENCIAL SEVERO OCHOA</td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="menupromo_clara"><a href="../descripcion/promo_01_descripcion.html" class="menupromo">Descripci&oacute;n</a></td>
+            <td>&nbsp;</td>
+            <td class="menupromo_oscura"><span class="menupromo_clara">Localizaci&oacute;n</span></td>
+            <td>&nbsp;</td>
+            <td class="menupromo_clara"><a href="../tipos_de_vivienda/promo_01_tipos_viviendas.html" class="menupromo">Tipos de vivienda</a></td>
+            <td>&nbsp;</td>
+            <td class="menupromo_clara"><a href="../semisotano/promo_01_semisotano.html" class="menupromo">Semis&oacute;tano</a></td>
+            <td>&nbsp;</td>
+            <td class="menupromo_clara"><a href="../memoria_de_calidades/promo_01_memoria_calidades.html" class="menupromo">Memoria de calidades</a></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+      <table width="100%" border="0" cellspacing="0">
+        <tr>
+          <td height="450" valign="top"><div id="fotos_localizacion"><a href="javascript:popup('localizacion_general.gif','640','351')"><img src="localizacion_general.gif" alt="localizacion" class="imagenes_localizacion" width="350" border="0" align="top" /></a><a href="javascript:popup('localizacion_iglesia.gif','640','351')"><img src="localizacion_iglesia.gif" alt="localizacion" class="imagenes_localizacion" width="350" border="0" align="left"  /></a></div></td>
+          <td valign="top"><div id="texto_localizacion">
+            <span class="titulo_localizacion">RESIDENCIAL SEVERO OCHOA</span>
+            <p><br />
+              En calle Severo Ochoa n&ordm; 3, cerca de la iglesia de La Encarnaci&oacute;n y la biblioteca municipal.</p>
+            <br />
+            <br />
+            <img src="../../../fotos/general/Lupa.jpg" alt="lupa" width="17" height="18" /> Pinchar en las fotos para ampliar Planos</div></td>
+        </tr>
+      </table>    </td>
+    <td rowspan="2" class="cuerpolados_celda">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="cuerpo_centro_celda"><table cellpadding="0" cellspacing="0" class="menu_oscura_tabla">
+      <tr>
+        <td class="pie_fina_celda" onclick="print();"><a href="javascript:void(0);"><img src="../../../fotos/general/print.gif" alt="imprimir" width="15" height="11" border="0" /> Imprimir</a></td>
+      </tr>
+    </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="pie_tabla">
+        <tr>
+          <td class="pie_celda">COINGRA - Urb. Jard&iacute;n de la Reina, C./ Gardenia, 1 - 18006 (Granada)<br />
+      <table width="0%" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td class="pie_celda_intro_mail" width="0"><div align="right">Telf.: 958 26 09 38 - Fax: 958 26 09 14 - email: coingra </div></td>
+          <td width="0"><img src="../../../fotos/general/arroba.jpg" alt="arro" width="10" height="13" /> </td>
+          <td class="pie_celda_intro_mail" width="0"><div align="left">coingra.es</div></td>
+        </tr>
+      </table>
+      <a class="pie" href="http://72.29.86.55/~coingra/aviso.html" target="popup_1" onclick="window.open(href,target,'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,top=0px,left=0px,width=600px,height=355px'); return false;">Aviso legal</a> | <a class="pie" href="#">xhtml 1.0</a> | <a class="pie"href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A//72.29.86.55/~coingra/general.css&amp;usermedium=all">css</a> | <span class="pie_creadopor">Sitio creado por <a class="pie" href="http://72.29.86.55/~coingra/correos/webmaster.php">JFVC</a></span><br /></td>
+        </tr>
+            </table>    </td>
+  </tr>
+  <tr>
+    <td style="height:37px">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<div id="inicio" align="right" style="position:absolute; left:4%; top:118px; width:92%; z-index:1; background-color: #D6CFD6; layer-background-color: #D6CFD6; border: 1px none #000000; text-align: right; visibility: hidden;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="menu_clara_tabla_celda"><div align="right">
+        <table width="250" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+          <tr>
+            <td class="menu_clara_tabla_celda"><a href="#"></a><a href="../../../Index.html" target="_parent">Portada</a></td>
+            <td class="menu_clara_tabla_celda">|</td>
+            <td class="menu_clara_tabla_celda"><a href="../../../inicio/quienes_somos.html" target="_parent">&iquest;Qui&eacute;nes somos?</a></td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+</div>
+<div id="prom" align="right" style="position:absolute; left:4%; top:118px; width:92%; z-index:1; background-color: #D6CFD6; layer-background-color: #D6CFD6; border: 1px none #000000; text-align: right; visibility: hidden;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="menu_clara_tabla_celda"><div align="right">
+        <table width="410" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+          <tr>
+            <td class="menu_clara_tabla_celda"><a href="#" class="menu_princ">Residencial Severo Ochoa</a></td>
+            <td class="menu_clara_tabla_celda">|</td>
+            <td class="menu_clara_tabla_celda"><a href="#">Promociones Anteriores</a></td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+</div>
+<div id="cons" align="right" style="position:absolute; left:4%; top:118px; width:92%; z-index:1; background-color: #D6CFD6; layer-background-color: #D6CFD6; border: 1px none #000000; text-align: right; visibility: hidden;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="menu_clara_tabla_celda"><div align="right">
+        <table width="292" cellpadding="0" cellspacing="0" class="menu_principal_clara">
+          <tr>
+            <td class="menu_clara_tabla_celda"><a href="#">Obras actuales</a></td>
+            <td class="menu_clara_tabla_celda">|</td>
+            <td class="menu_clara_tabla_celda"><a href="#">Obras Anteriores</a></td>
+          </tr>
+        </table>
+      </div></td>
+    </tr>
+  </table>
+</div>
+<div id="borrar" align="right" style="position:absolute; left:0%; top:137px; width:100%; z-index:1; text-align: right; visibility: visible;">
+  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0" onmouseover="main_menu('ocultar')" >
+    <tr>
+      <td class="ocultasubmenu_celda"></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

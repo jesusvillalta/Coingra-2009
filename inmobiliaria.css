@@ -1,0 +1,208 @@
+/*---------------------	inmobiliaria (destacados)	-----------------------*/
+table.menu_busqueda_tabla {
+	width:100%;
+}
+td.menu_busqueda_celda {
+	font-family:Arial, Helvetica, sans-serif;
+	width:19%;
+	padding-top: 20px;
+	padding-left: 5px;
+	vertical-align:top;
+	background-image: url(fotos/general/ble03.jpg);
+}
+.titulos {
+	font-family:Arial, Helvetica, sans-serif;
+	color: #214DAD;
+	font-weight:bold;
+	border: solid #003366 1px;
+	display: block;
+	}
+.subtitulos {
+	font-weight:bold;
+	}
+td.resultados_celda {
+	padding-top: 20px;
+	padding-right: 5px;
+	padding-left:40px;
+	vertical-align:top;
+}
+td.cuerpolados_celda {
+	width:4%;
+	background-color:#FFFFFF;
+}
+
+table.detacados_tabla {
+	border:none;
+	width: 100%;
+	float:right;
+}
+
+tr.destacados_tr {
+	height:130px;
+	vertical-align:top;
+	}
+td.detacados_inmuebles_celda_superior {
+	vertical-align:top;}
+	
+td.detacados_inmuebles_2celda {
+	position:relative;
+	width: 50%;
+}
+
+table.detacados_inmuebles_izq_tabla {
+	position:relative;
+	width:99%;
+	border:none;
+	float:left;
+	padding:5px;
+	vertical-align: top;
+	background-image: url(fotos/general/ble03.jpg);
+}
+table.detacados_inmuebles_der_tabla {
+	position:relative;
+	width:99%;
+	border:none;
+	float:right;
+	padding:5px;
+	vertical-align: top;
+	background-image: url(fotos/general/ble03.jpg);
+}
+.imagenes_destacados {
+	width:95px;
+	height:67px;
+	margin-right:5px;
+	float:left;
+	border-color: #CCCCCC;
+	}
+.negrita {
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+.descripcion {font-family:Arial, Helvetica, sans-serif;
+	}
+.pueblobarrio {font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}	
+.cajas_formulario {
+	border: solid #00006B 1px;
+	
+		font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+.botonbuscar {
+	font-weight: bold;
+	background-color: #40C1FF;
+	color:#000000;
+	border: solid #00006B 1px;
+	}
+
+	
+/*---------------------	inmobiliaria (resultados) -----------------------*/	
+
+table.pag_resultados_tabla{
+	border:0px;
+	width: 99%;
+	float:right;
+	background-color:#F7F3F7;
+	border-spacing:0px;
+}
+tr.pag_resultados_tr{
+	background-color:#FCD3AB;
+	font-weight:bold;
+	color:#DEB684;
+	text-align:left;
+}
+td.pag_resultados_celda{
+	color:#214DAD;
+}
+td.pag_resultados_oscura_celda{
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#EFEFEF;
+	height:25px;
+	vertical-align:middle;
+}
+td.pag_resultados_clara_celda{
+	font-family:Arial, Helvetica, sans-serif;
+	height:25px;
+	vertical-align:middle;
+}
+table.pag_resultados_tabla{
+	border:0px;
+	width: 99%;
+	float:right;
+	background-color:#F7F3F7;
+	border-spacing:0px;
+}
+table.pag_resultados_indice_tabla{
+	clear:right;
+	border:0px;
+	width: 99%;
+	float:right;
+	background-color:#F7F7F7;
+	border-spacing:0px;
+}
+td.pag_resultados_indiceizq_celda{
+	width:38%;
+	vertical-align:middle;
+	color: #993333;
+	font-weight:bold;
+	}
+	
+td.pag_resultados_indiceder_celda{
+	width:62%;
+	vertical-align:middle;
+	text-align:center;
+	font-weight:bold;
+	color: #993333;
+	}
+	
+.pag_resultados_indice_numeros{
+	color: #DEB684;
+	}
+.flechas_asc_desc {
+	border: #FFFFFF 1px solid;
+	width: 8px;
+}
+/*---------------------	inmobiliaria (detalles)	-----------------------*/
+
+a.botones_menu_detalles {
+	font-weight: normal;
+	font-weight:bold;
+	color: #003366;
+	display: block;
+}
+
+a.botones_menu_detalles:visited {
+	color: #003366;
+
+	}
+a.botones_menu_detalles:hover {
+	background-color: #003366;
+	color: #FFFFFF;
+	display: block;
+	}
+
+td.cuerpo_detalles_celda {
+	padding-top: 20px;
+	vertical-align:top;
+	background-image: url(fotos/general/ble03.jpg);
+}
+.clara {color: #DEB684;
+	font-weight:bold;}
+	
+.img_caract_celda{
+	background-color:#FFFFFF;
+	text-align: center;
+}
+
+.detalldatosnormal1 {	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: left;
+}
+.botonesdetalles_celda {
+	width:75px;
+	border: #003366 2px solid;
+	background-color: #EFEFEF;
+}
+.detall_observaciones{background-color:#FFFFFF;}

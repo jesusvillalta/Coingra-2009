@@ -1,0 +1,16 @@
+/*---------------------	Solicitar informacion -----------------------*/	
+.comentarios_supe {
+	font-weight: bold;
+	vertical-align: top;
+}
+.negrita_solic_infor {
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.botonenviar {
+	font-weight: bold;
+	background-color: #40C1FF;
+	color:#000000;
+	border: solid #00006B 1px;
+	}

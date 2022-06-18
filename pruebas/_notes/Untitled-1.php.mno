@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_resultados" value="name:ref;datatype:int,name:ref_interna;datatype:string" />
+	<infoitem key="UD_tipo" value="name:tipo;datatype:string" />
+</info>

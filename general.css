@@ -1,0 +1,228 @@
+/*PAGINAS DE ENTRADA AL SITIO*/
+/* MODIFICACIONES ANADIDAS A "SITIO GENERAL" PARA ADAPTAR LAS PAGINAS DE ENTRADA AL SITIO*/
+
+body.imagen_fondo{
+	background-image: url(fotos/general/introcolor.jpg);
+	background-attachment:fixed;
+	background-repeat:repeat;
+	} 
+.textocoingra_intro {
+	font-size: 14px;
+	padding-left:2px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-right: 2px;
+	background-color: #004DEF;
+}
+td.primero_intro {
+	background-color:#FFFFFF;
+	width:21%;
+	height: 69px;
+	}
+table.pie_entradatable {
+	height:77px;
+	border-width:0px;
+	width:100%;
+	}
+td.pie_menu_clara_tabla_celda{ 
+	background-color:#A6E2FF;
+	vertical-align: middle;
+	text-align:right;
+	font-weight:bold;
+	font-size:11px;
+	height:17px;
+	padding-right:10px;
+}
+td.cuerpoladostd_cabecera {
+	width:4%;
+	background-color:#FFFFFF;
+}
+td.pie_celda_intro{
+	vertical-align: middle;
+	text-align: center;
+	height:65px;
+	color:#FFFFFF;
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #10204A;
+}
+td.pie_celda_intro_mail{
+	vertical-align: middle;
+	text-align: center;
+	color:#FFFFFF;
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #10204A;
+}	
+/*SITIO GENERAL*/
+body,td,tr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+a {
+	font-weight: bold;
+}
+a:link {
+	color: #000055;
+	text-decoration: none;
+}
+a:visited {
+	color: #000055;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	background-color: #8CDAFF;
+}
+a:active {
+	text-decoration: none;
+}
+
+/*MENU PRINCIPAL DEL SITIO*/
+a.menu_princ {
+	font-weight: bold;
+	display: block;
+}
+a.menu_princ:link {
+	color: #000055;
+	text-decoration: none;
+}
+a.menu_princ:visited {
+	color: #000055;
+	text-decoration: none;
+}
+a.menu_princ:hover {
+	text-decoration: none;
+	background-color: #8CDAFF;
+	display: block;
+}
+a.menu_princ:active {
+	text-decoration: none;
+}
+a.pie {
+	font-weight: bold;
+}
+a.pie:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.pie:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.pie:hover {
+	text-decoration: none;
+	background-color: #8CDAFF;
+	color: #00006B;
+}
+table.cuerpo_tabla {
+	border:none;
+	width: 100%;
+}
+td.cuerpolados_celda {
+	width:4%;
+}
+td.cuerpo_centro_celda {
+	background-image:url(fotos/general/ble03.jpg);
+	background-position: 4% 80px;
+	background-attachment: scroll;
+	background-repeat: repeat;
+	width:92%;
+}
+table.cabecera {
+	border:none;
+	width: 100%;
+}
+td.tercero {
+	background: url(fotos/general/blalhambra2or.jpg);
+	width:36%;
+}
+td.segundo {
+	background: url(fotos/general/ble03p2.jpg);
+	width:39%;
+	vertical-align:bottom;
+}
+.textologo {
+	color: #3CBFFF;
+	padding-left: 5px;
+	font-weight: bold;
+}
+td.primero {
+	background-color:#FFFFFF;
+	width:21%;
+	height: 60px;
+	vertical-align: middle;
+}
+.textocoingra {
+	font-size: 17px;
+	font-weight: bold;
+	padding-left:5px;
+}
+
+table.menu_clara_tabla,table.menu_oscura_tabla,table.pie_tabla{
+	width:100%;
+	border:none;
+}
+td.menu_clara_tabla_celda{ 
+	background-color:#40C1FF;
+	vertical-align:bottom;
+}
+td.menu_clara_tabla_celda_submenu{ 
+	background-color:#A6E2FF;
+	vertical-align:bottom;
+}
+td.menu_oscura_tabla_celda{ 
+	background-color:#00006B;
+	vertical-align: middle;
+	text-align:right;
+	font-weight:bold;
+	color: #FFFFFF;
+	font-size:11px;
+	height:17px;
+	padding-right:10px;
+}
+table.menu_principal_clara{
+	height:17px;
+	text-align:center;
+	vertical-align:bottom;
+	border:none;
+}
+table.menu_principal_oscura{
+	width:413px;
+	height:17px;
+	text-align:center;
+	vertical-align:bottom;
+	border:none;
+}
+td.menu_oscura_tabla_celda{ 
+	vertical-align:bottom;
+}
+td.pie_fina_celda{
+	background-color:#A6E2FF;
+	text-align:right;
+	font-weight:bold;
+	vertical-align:bottom;
+	height:17px;
+}
+td.pie_celda{
+	color: #FFFFFF;
+	vertical-align: middle;
+	text-align: center;
+	height:85px;
+	font-size: 11px;
+	background-color: #10204A;
+}
+.pie_creadopor{
+	font-size:10px;
+}
+td.ocultasubmenu_celda{
+	height:18px;
+}

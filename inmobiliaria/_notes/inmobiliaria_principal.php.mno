@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_destacados" value="name:ref;datatype:int,name:dormitorios;datatype:int,name:banios;datatype:int,name:aseos;datatype:int,name:m2_construidos;datatype:int,name:precio;datatype:int,name:localidad;datatype:string,name:referencia_de_zona;datatype:string" />
+	<infoitem key="UD_localidades" value="name:granada;datatype:string" />
+</info>

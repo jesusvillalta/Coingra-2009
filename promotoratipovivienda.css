@@ -1,0 +1,143 @@
+/*---------------------	Menú de promociones	-----------------------*/
+a.menupromo:link {
+	color: #000000;
+}
+a.menupromo:visited {
+	color: #000000;
+}
+a.menupromo:hover{
+	background-color:#FFFFFF;
+	}
+td.menupromo_clara {
+	valign:middle; 
+	background-color:#FFD3AD;
+	text-align:center;
+	height:20px;
+}
+td.menupromo_oscura {
+	valign:middle; 
+	background-color:#FFBC80;
+	text-align:center;
+	font-weight:bold;
+	height:20px;
+}
+/*---------------------	Descripción	-----------------------*/
+.margen_foto_descripcion {
+	margin-right:15px;
+	margin-bottom: 15px;
+	width:55%;
+}
+.titulo_promocion {font-size: 20px;}
+
+/*---------------------	Tipos de vivienda (planta) -----------------------*/
+
+.imagenplanta{
+	border-width:2px;
+	border-color:#000000;
+	cursor:default;
+	width:150px;
+	margin-top:35px;
+	}
+.notas {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	}
+
+td.tablaorientativa_celda1 {
+	height:50px;}
+td.tablaorientativa_nota {
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	height:20px;
+	}
+td.derechanotas_celda {
+	text-align:right;
+	vertical-align: bottom;
+	}
+table.tablaorientativa_cabecera_tabla{
+	width:100%;
+	border:none;
+	}
+td.tablaorientativa_cabecera_celda{
+	background-color:#FCD3AB;
+	font-weight: bold;
+	}
+tr.tablaorientativa_tr{
+	background-color:#F4F4F4;
+	font-weight: bold;
+	}
+.imagenlupatablaorientativa{
+	border-width:2px;
+	border-color:#000000;
+	cursor:default;
+	}
+
+table.tablaorientativa_tabla{
+	width:100%;
+	border:none;
+	}
+td.tablaorientativasotanos_cabecera_celda{
+	background-color:#FCD3AB;
+	font-weight: bold;
+	width:50%;
+	}
+td.sotano_celda{
+	text-align:center;
+	width:50%;
+	}
+.imagensotanoyalzados {
+	width:280px;
+	margin-top:25px;}
+/*---------------------	Tipos de vivienda (pisos) -----------------------*/
+.plano_vivienda {
+	border-width:1px;
+	border-color:#000000;
+	width: 100%;
+	}
+	
+table.link_tabla{
+	width:100%;
+	border:1px;
+	}
+	
+td.link_celda{
+	height:40px;
+	}
+	
+a.linkatras:link,a.linkatras:visited,a.linkatras:hover {
+	font-weight: bold;
+	background-color: #FFD3AD;
+	color:#000000;
+	}
+
+.tabla_piso_titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+td.tabla_piso_subtitulos_celda {	
+	background-color:#FFD3AD;
+	font-weight: bold;
+	color:#000000;
+}
+tr.tabla_piso_superficies {
+	font-weight:bold;
+	background-color:#F4F4F4;
+}
+td.tabla_piso_izq{
+
+	background-color:#F4F4F4;
+	}
+td.tabla_piso{
+	background-color:#F4F4F4;
+	width:16%;
+	}
+/*---------------------	Memoria de calidades -----------------------*/
+	
+H4{
+font-size:13px;
+font-weight:bold;}
+
+p.memorias{
+	text-align:justify;
+	}
